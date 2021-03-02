@@ -1,2 +1,4 @@
 # hello-world
-This is a repository for a github study.
+Hi Everyone
+
+I am embarking on journey to become a Software Developer and I am excited about it.
